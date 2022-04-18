@@ -1,9 +1,13 @@
-# PDPprojectTwo File Storage
+# PDPprojectTwo PDF-to-text processor
 
-## How To Run The Application
+## File Upload
+This is a full stack React-Express file uploader but could easily be modified to work with any back-end including cloud storage
 
-1. Clone the repository
-2. Install all the dependencies using `npm run install:all`
-3. Then run the application with `npm run start`
+Quick Start
+# Install dependencies server/client
+npm install
+cd client
+npm install
 
-https://lucid.app/lucidchart/6e6f4ca8-369f-4d97-b876-271687c8d3dc/edit?beaconFlowId=6382CE65CBDA6D86&invitationId=inv_252d0177-75c1-4009-a81e-539ff5f31c61&page=0_0#
+# Serve on localhost:3000
+npm run dev
