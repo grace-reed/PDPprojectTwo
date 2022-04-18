@@ -5,9 +5,9 @@ This is a full stack React-Express file uploader but could easily be modified to
 
 Quick Start
 # Install dependencies server/client
-npm install
+```npm install
 cd client
-npm install
+npm install```
 
 # Serve on localhost:3000
 npm run dev
