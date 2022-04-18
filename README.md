@@ -7,6 +7,7 @@ Install dependencies server/client
 cd client
 npm install
 ```
-
-# Serve on localhost:3000
+Serve on localhost:3000
+```
 npm run dev
+```
