@@ -1,5 +1,5 @@
 # PDF Upload-to-text
-This is a full stack React-Express file uploader but could easily be modified to work with any back-end including cloud storage
+This is the front end of a full stack React-Express file uploader but could easily be modified to work with any back-end including cloud storage
 
 # Quick Start
 Install dependencies server/client
